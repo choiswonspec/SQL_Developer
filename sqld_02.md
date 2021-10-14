@@ -1,4 +1,4 @@
-https://www.notion.so/SQL-4c528ea916fd4f6e865feb2ec3e6f355)
+https://www.notion.so/SQL-01592e79d34c432a997906db1445b5a4
 
 ## 제 2장 : SQL 활용
 
