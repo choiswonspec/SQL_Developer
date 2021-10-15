@@ -1,3 +1,5 @@
+https://www.notion.so/SQL-4c528ea916fd4f6e865feb2ec3e6f355
+
 # DDL(DATA DEFINITION LANGUAGE)
 
 ### 데이터 유형
