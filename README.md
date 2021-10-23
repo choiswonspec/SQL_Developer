@@ -31,4 +31,4 @@ SQL (Structured Query Language)는 데이터베이스를 유일하게 액세스 
 제5절 그룹 함수 ( ROLLUP / CUBE / GROUPING SETS )
 제6절 윈도우 함수 ( 그룹 내 순위 / 일반집계 / 그룹 내 행 순서 / 그룹 내 비율 함수)  
 제7절 DCL ( 유저 생성 / DDL 권한 / OBJECT 권한 / ROLE )
-제8절 절차형 SQL ( PL/SQL    T-SQL      PROCEDURE / User Defined 
+제8절 절차형 SQL ( PL/SQL    T-SQL      PROCEDURE / User Defined Func / TRIGGER )  
